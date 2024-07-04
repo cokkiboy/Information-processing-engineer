@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "115c9aedfcfd8ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba51a8dcafa6927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b794265a810dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b55695a3d3c6833c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c49002806134744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501538a18add7ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b106cd0469678a66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a748707d201ab9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae4616b61e31235",
+    "type": "split",
+    "children": [
+      {
+        "id": "11df2c01ac1ee5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bda48aae69116b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9e22f94878dbf3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eef82a0df34f238f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9ea0598a3163ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a4b794265a810dfe",
+  "lastOpenFiles": [
+    "정보처리기사 필기준비/소프트웨어  설계/스크럼 기법.md",
+    "2024-07-04.md",
+    "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md",
+    "정보처리기사 필기준비/소프트웨어  설계/소프트웨어 아키텍처.md",
+    "정보처리기사 필기준비/소프트웨어  설계/품질 요구사항.md",
+    "정보처리기사 필기준비/소프트웨어  설계/요구사항 정의.md",
+    "정보처리기사 필기준비/소프트웨어  설계/UML.md",
+    "정보처리기사 필기준비/소프트웨어  설계/XP기법.md",
+    "정보처리기사 필기준비/소프트웨어  설계/사용자 인터페이스.md",
+    "정보처리기사 필기준비/소프트웨어  설계/개발기술 환경파악.md",
+    "정보처리기사 필기준비/소프트웨어  설계/소프트웨어 생명주기.md",
+    "정보처리기사 필기준비/소프트웨어  설계",
+    "정보처리기사 필기준비",
+    "코딩테스트 준비하는 폴더/프로그래머스2/level 2_스킬트리 -49993.md",
+    "코딩테스트 준비하는 폴더/프로그래머스2/level2_땅따먹기-12913.md",
+    "웹프레임워크 기말/웹프레임워크 기말.md",
+    "코딩테스트 준비하는 폴더/프로그래머스2/level2_주차요금- 92341.md",
+    "코딩테스트 준비하는 폴더/프로그래머스3/level 3_최고의 집합 - 12938.md",
+    "웹프레임워크 기말",
+    "1,2,3,5],[5,6,7,8],[4,3,2,1.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "코딩테스트 준비하는 폴더",
+    "2024-05-13.md",
+    "2024-05-11.md",
+    "무제 파일.md",
+    "2024-05-09.md",
+    "코딩테스트 준비하는 폴더/프로그래머스1",
+    "코딩테스트 준비하는 폴더/프로그래머스2",
+    "코딩테스트 준비하는 폴더/프로그래머스3"
+  ]
+}
