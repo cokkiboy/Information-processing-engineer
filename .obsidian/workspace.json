@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사 필기준비/소프트웨어  설계/결합도.md",
+                "file": "정보처리기사 필기준비/소프트웨어  설계/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정보처리기사 필기준비/소프트웨어  설계/결합도.md",
+                "file": "정보처리기사 필기준비/소프트웨어  설계/디자인 패턴.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정보처리기사 필기준비/소프트웨어  설계/결합도.md",
+                "file": "정보처리기사 필기준비/소프트웨어  설계/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정보처리기사 필기준비/소프트웨어  설계/결합도.md"
+                "file": "정보처리기사 필기준비/소프트웨어  설계/디자인 패턴.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "a4b794265a810dfe",
   "lastOpenFiles": [
-    "정보처리기사 필기준비/소프트웨어  설계/객체지향(Object-Oriented).md",
+    "정보처리기사 필기준비/소프트웨어  설계/코드.md",
+    "정보처리기사 필기준비/소프트웨어  설계/디자인 패턴.md",
+    "정보처리기사 필기준비/소프트웨어  설계/공통 모듈.md",
     "정보처리기사 필기준비/소프트웨어  설계/결합도.md",
+    "정보처리기사 필기준비/소프트웨어  설계/객체지향(Object-Oriented).md",
     "정보처리기사 필기준비/소프트웨어  설계/아키 텍처 패턴.md",
     "정보처리기사 필기준비/소프트웨어  설계/스크럼 기법.md",
     "2024-07-04.md",
